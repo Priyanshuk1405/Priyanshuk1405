@@ -41,14 +41,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=Priyanshuk1405&theme=dark&hide_border=true"/>
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 [![Priyanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Priyanshuk1405&theme=react-dark)](https://github.com/Priyanshuk1405)
@@ -57,7 +49,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Priyanshuk1405&theme=onedark&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Priyanshuk1405)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -69,6 +61,6 @@
 
 ## 👀 Profile Views
 
-![](https://visitcount.itsvg.in/api?id=Priyanshuk1405&icon=5&color=6)
+![](https://komarev.com/ghpvc/?username=Priyanshuk1405&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
