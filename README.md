@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Kansara</h1>
 <h3 align="center">Aspiring Data Analyst | Python | SQL | Power BI | Machine Learning</h3>
 
-<img align="right" alt="Coding" width="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJ6ZTRlenpmN3F4cHh2Z2w4OGowZjE5N3pzcWZtb2xwY20wYzJhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SYbKUKZmir9y7l2dYX/giphy.gif">
+<img align="right" alt="Coding" width="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDh1dW0yZzd1emZmb3MyYW43a3ptamlyOTlodjdqNXBzMGY5dWV1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif">
 
 ## 🚀 About Me
 
