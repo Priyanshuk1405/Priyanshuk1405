@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Kansara</h1>
 <h3 align="center">Aspiring Data Analyst | Python | SQL | Power BI | Machine Learning</h3>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJ6ZTRlenpmN3F4cHh2Z2w4OGowZjE5N3pzcWZtb2xwY20wYzJhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SYbKUKZmir9y7l2dYX/giphy.gif">
 
 ## 🚀 About Me
 
@@ -11,7 +11,6 @@
 - 💼 Looking for Data Analyst / Business Analyst opportunities
 - ⚡ Building projects with Python, SQL, Power BI and ML
 
----
 
 ## 🌐 Connect With Me
 
@@ -44,12 +43,6 @@
 ## 📈 Contribution Graph
 
 [![Priyanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Priyanshuk1405&theme=react-dark)](https://github.com/Priyanshuk1405)
-
----
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Priyanshuk1405)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
