@@ -1,20 +1,74 @@
-# 💫 About Me:
-I'm an Aeronautical Engineer<br>Currently Exploring the data field.<br>Looking for Job or Internship to Start My Career in Tech Industry<br>I build Some projects on Python, SQL, and Power BI.<br>In Some Projects i Used ML Algorithms.<br>
+<h1 align="center">Hi 👋, I'm Priyanshu Kansara</h1>
+<h3 align="center">Aspiring Data Analyst | Python | SQL | Power BI | Machine Learning</h3>
 
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-kansara) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kansarapriyanshu6102@gmail.com) 
+## 🚀 About Me
 
-# 💻 Tech Stack:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-# 📊 GitHub Stats:
+- 🎓 Aeronautical Engineering Graduate
+- 📊 Exploring Data Analytics & Data Science
+- 🌱 Currently learning Advanced SQL, Power BI & Machine Learning
+- 💼 Looking for Data Analyst / Business Analyst opportunities
+- ⚡ Building projects with Python, SQL, Power BI and ML
 
-![](https://github-readme-stats.vercel.app/api?username=Priyanshuk1405&theme=dark&show_icons=true)
+---
 
-![](https://nirzak-streak-stats.vercel.app/?user=Priyanshuk1405&theme=dark)
+## 🌐 Connect With Me
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshuk1405&layout=compact&theme=dark)
+<p align="left">
+<a href="https://linkedin.com/in/priyanshu-kansara">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:kansarapriyanshu6102@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-11557c?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/powerbi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=Priyanshuk1405&theme=dark&hide_border=true"/>
+</p>
+
+---
 
 ## 📈 Contribution Graph
 
 [![Priyanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Priyanshuk1405&theme=react-dark)](https://github.com/Priyanshuk1405)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Priyanshuk1405&theme=onedark&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Priyanshuk1405/Priyanshuk1405/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 👀 Profile Views
+
+![](https://visitcount.itsvg.in/api?id=Priyanshuk1405&icon=5&color=6)
+
+---
